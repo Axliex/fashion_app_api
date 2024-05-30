@@ -1,0 +1,76 @@
+{
+    "products": [
+        {
+            "id": 39,
+            "title": "PUMA x LAMELO BALL Be You Men's Basketball Tee",
+            "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/627746/01/fnd/PNA/fmt/png/PUMA-x-LAMELO-BALL-Be-You-Men's-Basketball-Tee",
+            "price": 45,
+            "description": "Love yourself in this Be You tee. The relaxed-fit tee is at home on the court or in the stands. The crew-neck, short sleeved shirt features bold PUMA branding and that is all you.",
+            "brand": "PUMA",
+            "model": "LAMELO BALL Be You Men's Basketball Tee",
+            "color": "black",
+            "category": "T-Shirts",
+            "discount": 19
+        },
+        {
+            "id": 40,
+            "title": "PUMA x NEYMAR JR x COPA AMÉRICA Men's Soccer Tee",
+            "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/659219/01/fnd/PNA/fmt/png/PUMA-x-NEYMAR-JR-x-COPA-AM%C3%89RICA-Men's-Soccer-Tee",
+            "price": 40,
+            "description": "Dazzle not only on the pitch but also off the pitch just like Neymar Jr in his namesake soccer tee, which is built to the exact, stylish standards set by the soccer superstar.",
+            "brand": "PUMA",
+            "model": "NEYMAR JR x COPA AMÉRICA Men's Soccer Tee",
+            "color": "white",
+            "category": "T-Shirts",
+            "discount": 19
+        },
+        {
+            "id": 41,
+            "title": "PUMA CONMEBOL Copa América 2024 Mexico Men's Tee",
+            "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/763912/01/fnd/PNA/fmt/png/PUMA-CONMEBOL-Copa-Am%C3%A9rica-2024-Mexico-Men's-Tee",
+            "price": 35,
+            "description": "Just in time for the CONMEBOL Copa América 2024. Whether you're cheering from home or the stands, this tee is the perfect match day companion.",
+            "brand": "PUMA",
+            "model": "CONMEBOL Copa América 2024 Mexico Men's Tee",
+            "color": "green",
+            "category": "T-Shirts",
+            "discount": 19
+        },
+        {
+            "id": 42,
+            "title": "Uniqlo AIRism Cotton Oversized Crew Neck Half-Sleeve T-Shirt",
+            "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/455359/sub/goods_455359_sub14.jpg?width=400",
+            "price": 15,
+            "description": "Wide-fit cut. | Double-faced fabric showcases the dropped shoulders and wide-fit silhouette. | Suitable for casual or refined styling.",
+            "brand": "Uniqlo",
+            "model": "AIRism Cotton Oversized Crew Neck Half-Sleeve T-Shirt",
+            "color": "beige",
+            "category": "T-Shirts",
+            "discount": 19
+        },
+        {
+            "id": 43,
+            "title": "Uniqlo AIRism Cotton Striped Crew Neck T-Shirt (Contrast Trim)",
+            "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/467273/sub/goods_467273_sub14.jpg?width=400",
+            "price": 15,
+            "description": "Versatile innerwear that also styles as a T-shirt. | Perfect for layering.",
+            "brand": "Uniqlo",
+            "model": "AIRism Cotton Striped Crew Neck T-Shirt (Contrast Trim)",
+            "color": "white",
+            "category": "T-Shirts",
+            "discount": 19
+        },
+        {
+            "id": 44,
+            "title": "Adidas Adicolor Classic 3 Stripes",
+            "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c257443fd24542c3a2e4aefb0104b8d6_9366/Adicolor_Classics_3-Stripes_Tee_Grey_IA4848_01_laydown.jpg",
+            "price": 35,
+            "description": "Meet your new favorite tee. This classic adidas t-shirt brings together a flattering slim fit and super-soft cotton build. The result is an easy-to-wear top that feels just as good as it looks. Combine it with adidas track pants or shorts for head-to-toe sport style or pair it with jeans and a jacket for casual, everyday wear.Throwback adidas detailsThis archive-inspired tee has serious vintage vibes thanks to the 3-Stripes down the shoulders and contrast collar and cuffs.",
+            "brand": "Adidas",
+            "model": "Adicolor Classic 3 Stripes",
+            "color": "black",
+            "category": "T-Shirts",
+            "discount": 19
+        }
+    ]
+}

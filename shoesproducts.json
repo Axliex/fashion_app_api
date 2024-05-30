@@ -1,0 +1,112 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Adidas Samba OG",
+            "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/3bbecbdf584e40398446a8bf0117cf62_9366/Samba_OG_Shoes_White_B75806_01_standard.jpg",
+            "price": 100,
+            "description": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch.",
+            "brand": "Adidas",
+            "model": "Samba OG",
+            "color": "Black",
+            "category": "Shoes",
+            "discount": 11
+        },
+        {
+            "id": 2,
+            "title": "Adidas Bali",
+            "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/5afab8d51ae547cd8d5ea69364534bdd_9366/BALI_Blue_IG6195_01_standard.jpg",
+            "price": 120,
+            "description": "Bali Sneakers from their 'Island Series' are making an exciting return after decades off the scene. Staying true to the original design, these sneakers are uncomplicated, clean and classic.",
+            "brand": "Adidas",
+            "model": "Bali",
+            "color": "Blue",
+            "category": "Shoes",
+            "discount": 4
+        },
+        {
+            "id": 3,
+            "title": "Adidas NMD_R1",
+            "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/3037a44a60ef4fb7aa93b063bd58a08b_9366/NMD_R1_Shoes_Grey_IF3504_01_standard.jpg",
+            "price": 130,
+            "description": "Whether you're pounding the pavement or navigating the city, these adidas shoes keep you moving in comfort. An update of the acclaimed '80s runner, they feature plush BOOST cushioning for energy return with every step. The stretchy knit upper holds your foot in a sock-like fit, while the molded heel patch provides added stability. Tactical details like textured midsole plugs and a heel pull loop pay homage to the adidas archives. An ode to both yesterday and today, this pair fuses retro appeal with modern-day performance.",
+            "brand": "Adidas",
+            "model": "NMD_R1",
+            "color": "grey",
+            "category": "Shoes",
+            "discount": 3
+        },
+        {
+            "id": 4,
+            "title": "Adidas Gazelle Indoor Shoes",
+            "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/92fcae5dd0e8423a8790585c6c97148b_9366/Gazelle_Indoor_Shoes_Orange_IH7499_01_standard.jpg",
+            "price": 120,
+            "description": "A revival of the Gazelle Indoor sneakers from 1979, these adidas shoes have all the details that soccer fans, indie rockers and sneakerheads have loved for decades. Soft suede and a durable leather lining come together on a gum rubber outsole with a translucent effect. The 3-Stripes and metallic-gold lettering complete the authentic look.",
+            "brand": "Adidas",
+            "model": "Gazelle Indoor",
+            "color": "orange",
+            "category": "Shoes",
+            "discount": 11
+        },
+        {
+            "id": 5,
+            "title": "Adidas Ultraboost 1.0",
+            "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c608f554cb3b4d12b392af000188c513_9366/Ultraboost_1.0_Shoes_Black_HQ4199_01_standard.jpg",
+            "price": 190,
+            "description": "From a walk in the park to a weekend run with friends, these adidas Ultraboost 1.0 shoes are designed to keep you comfortable. An adidas PRIMEKNIT upper gently hugs your feet while BOOST on the midsole cushions from the first step to the last mile. The Stretchweb outsole flexes naturally for an energized ride, and Continental™ Rubber gives you the traction you need to keep that pep in your step.",
+            "brand": "Adidas",
+            "model": "Ultraboost 1.0",
+            "color": "black",
+            "category": "Shoes",
+            "discount": 19
+        },
+        {
+            "id": 6,
+            "title": "Adidas VL Court 3.0",
+            "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/f7036c6aa6944aa19b7c0ca5c9d96f65_9366/VL_Court_3.0_Shoes_Black_ID6279_01_standard.jpg",
+            "price": 75,
+            "description": "These adidas sneakers are all clean lines and a smooth coated leather upper atop a skater-style vulcanized outsole. Wear yours with crop pants or a floaty skirt. Either way, you'll want to show off every angle. Lightweight cushioning and a soft lining keep the foot wrapped in comfort right through the day",
+            "brand": "Adidas",
+            "model": "VL Court 3.0",
+            "color": "black",
+            "category": "Shoes",
+            "discount": 19
+        },
+        {
+            "id": 7,
+            "title": "PUMA Palermo",
+            "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/396463/03/sv01/fnd/PNA/fmt/png/Palermo-Sneakers",
+            "price": 90,
+            "description": "A terrace legend from our archives returns: The Palermo. The silhouette debuted back in the early '80s, where it quickly became a staple among the terrace crowds in British soccer stadiums. Now, we’ve brought it back for the fans. Like the original, the Palermo is complete with its signature tag at the upper, a T-toe construction, and, of course, the classic gum sole. This version has a suede base and leather Formstrip with foil-printed PUMA branding.",
+            "brand": "PUMA",
+            "model": "Palermo",
+            "color": "brown",
+            "category": "Shoes",
+            "discount": 19
+        },
+        {
+            "id": 8,
+            "title": "PUMA Suede Classic USA Flagship",
+            "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/375549/04/sv01/fnd/PNA/fmt/png/Suede-Classic-USA-Flagship-Sneakers",
+            "price": 90,
+            "description": "A PUMA classic since 1968, the Suede is an undisputable legend. Hitting the streets in red, white and blue, with a debossed star print on the Formstrip and liberty emblem at the heel, this Suede is an all-American icon.",
+            "brand": "PUMA",
+            "model": "Suede Classic",
+            "color": "beige",
+            "category": "Shoes",
+            "discount": 19
+        },
+        {
+            "id": 9,
+            "title": "PUMA Clyde Basketball Nostalgia",
+            "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/395374/01/sv01/fnd/PNA/fmt/png/Clyde-Basketball-Nostalgia-Sneakers",
+            "price": 120,
+            "description": "More than just a sneaker – the Clyde is a true icon from the PUMA archive. Just like its namesake, Walt “Clyde” Frazier, the Clyde embodies fashion, culture, and basketball heritage with confidence and flair. This year continues over the 50-year history of this iconic silhouette. This version of the sneaker dives into that '70s hoops nostalgia, driven by sartorial detailing like subtle colour-blocking. It features an aged-looking leather upper, suede Formstrip, and perforated toe.",
+            "brand": "PUMA",
+            "model": "Clyde Basketball",
+            "color": "beige",
+            "category": "Shoes",
+            "discount": 19
+        }
+    ]
+}

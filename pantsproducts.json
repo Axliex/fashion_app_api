@@ -1,0 +1,88 @@
+{
+    "products": [
+        {
+            "id": 32,
+            "title": "PUMA DARE TO Women's Relaxed Woven Pants",
+            "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/627986/62/fnd/PNA/fmt/png/DARE-TO-Women's-Relaxed-Woven-Pants",
+            "price": 80,
+            "description": "Dare to be different with these DARE TO woven pants, a fashion piece that embodies confidence, boldness and the celebration of your individuality. Designed for women with a passion for style and determination, these pants combine design with an inspiring message: dare to be yourself.",
+            "brand": "PUMA",
+            "model": "DARE TO Women's Relaxed Woven Pants",
+            "color": "beige",
+            "category": "Pants",
+            "discount": 19
+        },
+        {
+            "id": 33,
+            "title": "Uniqlo Smart Ankle Pants (Ultra Stretch)",
+            "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/461502/sub/goods_461502_sub14.jpg?width=400",
+            "price": 40,
+            "description": "Ultra Stretch fabric. | Roomy around the inseam for a comfortable fit. | Elegant fabric and a sleek ankle-length cut. | Snap buttons and an elasticated waistband for a comfortable fit.",
+            "brand": "Uniqlo",
+            "model": "Smart Ankle Pants",
+            "color": "beige",
+            "category": "Pants",
+            "discount": 19
+        },
+        {
+            "id": 34,
+            "title": "Uniqlo Drapey Denim Pleated Pants",
+            "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/467386/sub/goods_467386_sub14.jpg?width=400",
+            "price": 50,
+            "description": "Incredibly soft denim made from a lyocell and cotton blend. | Stylish pleats at the front. | Elastic waist at the back for easy outfit changes. | Full-length, wide-leg straight cut. | BLUE CYCLE JEANS technology reduces the volume of water* used in the finishing process. Water savings may vary between products",
+            "brand": "Uniqlo",
+            "model": "Drapey Denim Pleated Pants",
+            "color": "blue",
+            "category": "Pants",
+            "discount": 19
+        },
+        {
+            "id": 35,
+            "title": "Uniqlo Wide Straight Cargo Pants",
+            "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/461643/item/goods_30_461643.jpg?width=400",
+            "price": 20,
+            "description": "On-trend wide cut. | Comfortable elastic waist. | Classic work pant details. Featuring cargo pockets at the sides and a flap pocket at the back.",
+            "brand": "Uniqlo",
+            "model": "Wide Straight Cargo Pants",
+            "color": "beige",
+            "category": "Pants",
+            "discount": 19
+        },
+        {
+            "id": 36,
+            "title": "Uniqlo Parachute Cargo Pants",
+            "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/464993/sub/goods_464993_sub14.jpg?width=400",
+            "price": 25,
+            "description": "Classic parachute pants and relaxed silhouette for a comfortable fit. | Jogger design with elastic hem for easy movement.",
+            "brand": "Uniqlo",
+            "model": "Parachute Cargo Pants",
+            "color": "green",
+            "category": "Pants",
+            "discount": 19
+        },
+        {
+            "id": 37,
+            "title": "Uniqlo Cargo Jogger Pants",
+            "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/470595/sub/goods_470595_sub14.jpg?width=400",
+            "price": 50,
+            "description": "Minimalist design complements the slim fit",
+            "brand": "Uniqlo",
+            "model": "Drapey Cargo Jogger Pants",
+            "color": "brown",
+            "category": "Pants",
+            "discount": 19
+        },
+        {
+            "id": 38,
+            "title": "PUMA x PALOMO T7 Pants",
+            "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/625563/65/fnd/PNA/fmt/png/PUMA-x-PALOMO-T7-Pants",
+            "price": 165,
+            "description": "Founded in 2015, Palomo Spain is known for designs that combine the dramatic spirit of southern Spain with the sophisticated street style of London. The latest PUMA x PALOMO SPAIN collab draws inspiration from the early ‘80s roller skate scene, as you can see with these T7 track suit pants, with its optimistic colors and bold patterns.",
+            "brand": "PUMA",
+            "model": "PALOMO T7 Pants",
+            "color": "white",
+            "category": "Pants",
+            "discount": 19
+        }
+    ]
+}

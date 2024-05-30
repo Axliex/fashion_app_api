@@ -1,0 +1,100 @@
+{
+    "products": [
+        {
+            "id": 24,
+            "title": "Adidas Myshelter Rain Rdy Parka",
+            "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/28cdbbaf19a24978b6a24569c86f43da_9366/MYSHELTER_RAIN.RDY_Parka_Black_IP5572_01_laydown.jpg",
+            "price": 210,
+            "description": "Don't let the rain dampen your style. This adidas parka is made with RAIN.RDY waterproofing technology that channels moisture away from your body, allowing you to navigate sudden showers in comfort. The two-layer fabric is breathable and waterproof so you stay at your ideal temperature, while the stowaway hood keeps you under cover.",
+            "brand": "Adidas",
+            "model": "Myshelter Rain Rdy Parka",
+            "color": "red",
+            "category": "Jackets",
+            "discount": 19
+        },
+        {
+            "id": 25,
+            "title": "Stone Island Membrana Hooded Blouson",
+            "image": "https://cdn.yoox.biz/16/16306636AS_13_f.jpg",
+            "price": 780,
+            "description": "LIGHT SOFT SHELL-R_e.dye® TECHNOLOGY IN RECYCLED POLYESTER: Hooded blouson made using a 3-ply performance material with an 8000 MM water column. The 100% recycled polyester stretch canvas outer face is woven with yarns using the e.dye® Waterless Color System™ technology,",
+            "brand": "Stone Island",
+            "model": "Membrana Hooded Blouson",
+            "color": "beige",
+            "category": "Jackets",
+            "discount": 19
+        },
+        {
+            "id": 26,
+            "title": "Stone Island Micro Twill Hooded Jacket",
+            "image": "https://cdn.yoox.biz/16/16307527BB_13_f.jpg",
+            "price": 910,
+            "description": "MICRO TWILL: Hooded jacket made of a polyester Micro Twill featuring a spring-like, helical molecular structure. This fiber lends a soft and comfortable texture to the fabric with deep and rich colors.",
+            "brand": "Stone Island",
+            "model": "Micro Twill Hooded Jacket",
+            "color": "beige",
+            "category": "Jackets",
+            "discount": 19
+        },
+        {
+            "id": 27,
+            "title": "Stone Island Weatherproof Canvas Field Jacket",
+            "image": "https://cdn.yoox.biz/16/16341479CN_13_f.jpg",
+            "price": 945,
+            "description": "WEATHERPROOF COTTON CANVAS_ GHOST PIECE: Ghost pieces are based on the concept of camouflage and are totally monochromatic. Even their Stone Island badge has been created in a special monochrome version to blend with the garment.",
+            "brand": "Stone Island",
+            "model": "Weatherproof Canvas Field Jacket",
+            "color": "beige",
+            "category": "Jackets",
+            "discount": 19
+        },
+        {
+            "id": 28,
+            "title": "Stone Island Bio Raso Hooded Trench",
+            "image": "https://cdn.yoox.biz/16/16306908VO_13_f.jpg",
+            "price": 1285,
+            "description": "BIO RASO WITH BIO-ALLOY™ LIGHT COVER-TC: Hooded trench coat in Bio Raso with Bio-Alloy™ Light Cover-TC. Evolution of the iconic Stone Island Raso Gommato, Bio Raso with Bio-Alloy™ Light Cover-TC, is made of 100% organic cotton and Bio-Alloy™, a bio-based proprietary technology by Modern Meadow engineered with plant-based protein. ",
+            "brand": "Stone Island",
+            "model": "Bio Raso Hooded Trench",
+            "color": "beige",
+            "category": "Jackets",
+            "discount": 19
+        },
+        {
+            "id": 29,
+            "title": "Stone Island Primaloft Camo Hooded Vest",
+            "image": "https://cdn.yoox.biz/16/16306856BA_13_f.jpg",
+            "price": 1248,
+            "description": "DISSOLVING GRID CAMO ON ECONYL® REGENERATED NYLON WITH PRIMALOFT® INSULATION TECHNOLOGY Vest in a nylon canvas garment made with a trilobate structure sheen ECONYL® regenerated yarns.",
+            "brand": "Stone Island",
+            "model": "Primaloft Camo Hooded Vest",
+            "color": "grey",
+            "category": "Jackets",
+            "discount": 19
+        },
+        {
+            "id": 30,
+            "title": "PUMA x PLAYSTATION Tracktop",
+            "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/624696/01/fnd/PNA/fmt/png/PUMA-x-PLAYSTATION%C2%AE-Men's-Jacket",
+            "price": 110,
+            "description": "The PUMA x PLAYSTATION® collab is all about the two legends teaming up to push the boundaries of reality with pieces that take cues from the visionary gaming world so you can tackle all your daily quests. This jacket features a graphic and colors that pay tribute to the PlayStation® console",
+            "brand": "PUMA",
+            "model": "PLAYSTATION Tracktop",
+            "color": "black",
+            "category": "Jackets",
+            "discount": 19
+        },
+        {
+            "id": 31,
+            "title": "Manchester City Pre-Match Men's Woven Jacket",
+            "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/777580/22/fnd/PNA/fmt/png/Manchester-City-Pre-Match-Men's-Woven-Jacket",
+            "price": 100,
+            "description": "Train like the champions in this official Manchester City Pre-Match Woven Jacket. With a regular-fit, full-zip closure, zipped pockets and our sweat-wicking dryCELL tech, it's tailored for optimal pre-match focus. It features Manchester City details, so you can represent the team with pride.",
+            "brand": "PUMA",
+            "model": "Manchester City Pre-Match",
+            "color": "blue",
+            "category": "Jackets",
+            "discount": 19
+        }
+    ]
+}

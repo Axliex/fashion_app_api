@@ -1,0 +1,88 @@
+{
+    "products": [
+        {
+            "id": 10,
+            "title": "Arsenal 24/25 Home Jersey",
+            "image": "https://res.cloudinary.com/assetmanagerpim/image/upload/c_fit,h_1000,w_1000/017bd9fc18c941bc8fbfac62db414c7e_9366.png",
+            "price": 100,
+            "description": "A clean look for a young squad who have their sights set on the very top. Standing out over those timeless home colors, a simple embroidered crest is the star of this Arsenal jersey from adidas. Moisture-managing AEROREADY and soft interlock fabric combine to keep soccer fans comfortable while they enjoy the ride.This product is made with 100% recycled materials. By reusing materials that have already been created, we help to reduce waste and our reliance on finite resources and reduce the footprint of the products we make.",
+            "brand": "Adidas",
+            "model": "Arsenal 24/25 Home",
+            "color": "red",
+            "category": "Jerseys",
+            "discount": 19
+        },
+        {
+            "id": 11,
+            "title": "Inter Miami CF Tiro Pride Jersey",
+            "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/8fc12baa98f340bc917b1c12c5440dc3_9366/Inter_Miami_CF_Tiro_Pride_Jersey_Black_JD6009_01_laydown.jpg",
+            "price": 70,
+            "description": "Celebrate Pride and the courage to be your true self in this adidas Inter Miami CF jersey, created in collaboration with Brazilian artist Pabllo Vittar. This top honors the act of self-expression with a bold allover print and a reminder that Love Unites. Soft interlock fabric keeps you comfortable and that ribbed V-neck collar completes a classic soccer look.",
+            "brand": "Adidas",
+            "model": "Inter Miami CF Tiro Pride",
+            "color": "black",
+            "category": "Jerseys",
+            "discount": 19
+        },
+        {
+            "id": 12,
+            "title": "Argentina 1994 Away Jersey",
+            "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/3137a18fbab64122900f36af3b0d8889_9366/Argentina_1994_Away_Jersey_Blue_IS0266_HM30.jpg",
+            "price": 110,
+            "description": "Sometimes the past just nails it. Bringing back the Argentina 1994 Away Jersey, one of soccer history's most recognizable looks.Inspired by the away jersey that Argentina's legends wore in the 1994 World Cup, this soccer jersey has an unmistakable 90s vibe. Its loose fit, engineered 3-Stripes and the flock-printed number 10 recreate a classic down to the smallest details. ",
+            "brand": "Adidas",
+            "model": "Argentina 1994 Away",
+            "color": "blue",
+            "category": "Jerseys",
+            "discount": 19
+        },
+        {
+            "id": 13,
+            "title": "Mexico 2024 Home Jersey",
+            "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/8ba464bdab904d45ac40d4d8d684b98d_9366/Mexico_2024_Home_Authentic_Jersey_Multicolor_IP6379_01_laydown.jpg",
+            "price": 110,
+            "description": "Tradition meets mysticism. Embrace the enchanting heritage of Mexican culture through the vibrant colors of the Alebrijes shapes. Patterns of animals and nature create a magic backdrop for the newly designed Mexico Home Authentic Jersey.",
+            "brand": "Adidas",
+            "model": "Mexico 2024 Home",
+            "color": "green",
+            "category": "Jerseys",
+            "discount": 19
+        },
+        {
+            "id": 14,
+            "title": "100T Jersey",
+            "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9e408787fa3949748759004a79d513fb_9366/100_Thieves_Jersey_Multi_IW4595_01_laydown.jpg",
+            "price": 90,
+            "description": "This adidas jersey blends e-sport energy into an effortless statement. We made it in collaboration with 100 Thieves, a label built at the intersection of competitive gaming and style. The doubleknit fabric keeps the vibe comfortable and classic while the allover print channels an edgy sense of cool. Signature 3-Stripes show up in their rightful spot along the shoulders.",
+            "brand": "Adidas",
+            "model": "100Thieves",
+            "color": "black",
+            "category": "Jerseys",
+            "discount": 19
+        },
+        {
+            "id": 15,
+            "title": "AC Milan 23/24 Home Jersey",
+            "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/770382/01/fnd/PNA/fmt/png/AC-Milan-23/24-Men's-Home-Authentic-Jersey",
+            "price": 140,
+            "description": "M is for Milan, the club and the city. You can’t separate AC Milan from Milan. So, with the 2023/24 Home Jersey, we bring the two even closer together. The signature red and black stripes are transformed into a completely new repeat graphic drawn from the letter M to celebrate the club, the city, and their role at the heart of a community that’s constantly evolving, constantly moving things on.",
+            "brand": "PUMA",
+            "model": "AC Milan 23/24 Home",
+            "color": "black",
+            "category": "Jerseys",
+            "discount": 19
+        },
+        {
+            "id": 16,
+            "title": "Dortmund Training Jersey",
+            "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/771818/02/fnd/PNA/fmt/png/Borussia-Dortmund-Soccer-Men's-Training-Jersey",
+            "price": 55,
+            "description": "Heja BVB! Control the practice pitch just like Borussia Dortmund in this training jersey engineered for perfect performance. Its lightweight, moisture-wicking construction will keep you agile and cool during a strenuous session, so you’ll be ready to take on the world’s soccer giants like Die Schwarzgelben.",
+            "brand": "PUMA",
+            "model": "Dortmund Training",
+            "color": "black",
+            "category": "Jerseys",
+            "discount": 19
+        }
+    ]
+}
